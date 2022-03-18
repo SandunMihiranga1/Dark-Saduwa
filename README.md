@@ -40,7 +40,7 @@
 `TURN OFF WEB NODE SERVER AND ENABLE WORKER NPM START`
 
 <p align="center">
-  <a href="https://github.com/Ajmal-Achu"><img src="https://i.imgur.com/aSw2GKZ.jpeg" />
+  <a href="https://github.com/SandunMihiranga1"><img src="https://i.imgur.com/aSw2GKZ.jpeg" />
 </p>
 
 
