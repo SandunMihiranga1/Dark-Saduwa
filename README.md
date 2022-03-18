@@ -47,7 +47,7 @@
 ## Developers
   <div align="center">
   
-  [![SudoAnirudh](https://telegra.ph/file/7411ef97cb37f898b91e5.jpg)](https://github.com/SudoAnirudh)[`SudoAnirudh`](https://github.com/SudoAnirudh)
+  [![SudoAnirudh](https://telegra.ph/file/7411ef97cb37f898b91e5.jpg)](https://github.com/SudoAnirudh)[`SudoAnirudh`](https://github.com/SandunMihiranga1)
 ----|
    `Im Sandun Mihiranga`
  
