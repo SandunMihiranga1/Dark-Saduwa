@@ -47,9 +47,9 @@
 ## Developers
   <div align="center">
   
-  [![SudoAnirudh](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/SudoAnirudh)[`SudoAnirudh`](https://github.com/SudoAnirudh)
+  [![SudoAnirudh](https://telegra.ph/file/7411ef97cb37f898b91e5.jpg)](https://github.com/SudoAnirudh)[`SudoAnirudh`](https://github.com/SudoAnirudh)
 ----|
-   `Base, Bug Fixes, Modules`
+   `Im Sandun Mihiranga`
  
 
   
