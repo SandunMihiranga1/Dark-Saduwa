@@ -470,7 +470,7 @@ type *.on delete* to turn off this message
 
 global.dfail = (type, m, conn) => {
   let msg = {
-    rowner: 'This command can only be used by _*Bot Owner✅*_',
+    rowner: 'This command can only be used by _*Bot Owner👻✅*_',
     owner: 'This command can only be used by _*Bot Owner✅*_',
     mods: 'This command can only be used by _*Moderator✅*_',
     premium: 'This command is only for _*Premium users✅*_',
